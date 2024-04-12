@@ -1,2 +1,7 @@
 # Deep-Learning-Mini-Project
-Mini project making a modified ResNet
+##Mini project making a modified ResNet
+##Created by Team Get a JOB
+
+Achieved an accuracy of 84.8% on the custom test dataset
+
+Notebook contains code with all cells ran.
